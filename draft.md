@@ -11,6 +11,11 @@
 
 - [ ] frame your talk with brief context / background, 
 - [ ] and then swiftly transition into a concise explantion of the issue / problem or debate that your key message addresses
+ - for example using the following prompts
+ - Today I would like to talk about a highly contested issue...'
+ - 'This question is central to understanding...'
+ - 'I will make the case that...'
+
 - [ ] state the purpose or key message of the talk
 
 - What is MyCo?
