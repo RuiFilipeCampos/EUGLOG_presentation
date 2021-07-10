@@ -4,4 +4,8 @@
 
 ## Structure of Presentation
 
-- introduction
+### Introduction
+
+- What is MyCo?
+- Why Python?
+- Python, how???
