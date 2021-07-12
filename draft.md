@@ -59,4 +59,8 @@ I'm just gonna explain the algorithms!
 
 - hey, not everything here needs to be something I invented xd
 
+### range based hashed interpolation
+
+- 2nd main reason y myco be fast
+
 ## Conclusion
