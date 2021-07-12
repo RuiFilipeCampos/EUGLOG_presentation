@@ -47,6 +47,14 @@ I'm just gonna explain the algorithms!
 
 ### Ray/Sphere Hybrid
 
+### pyRelax
+
+- gunna be fun to explain this
+
+### Interval Arithmetics
+
+- should be fun to also explain this
+
 ### Wilkersons Aliasing
 
 - hey, not everything here needs to be something I invented xd
